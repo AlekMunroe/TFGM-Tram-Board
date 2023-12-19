@@ -1,0 +1,99 @@
+| ABM | Abraham Moss                            
+| AIR | Manchester Airport                      
+| ALT | Altrincham                              
+| ANC | Anchorage                               
+| ASH | Ashton-Under-Lyne                       
+| ASM | Ashton Moss                             
+| ASW | Ashton West                             
+| AUD | Audenshaw                               
+| BAG | Baguley                                 
+| BCH | Benchill                                
+| BDW | Broadway                                
+| BKV | Bowker Vale                             
+| BMR | Barlow Moor Road                        
+| BOB | Besses O’ Th’ Barn                      
+| BRK | Brooklands                              
+| BRT | Burton Road                             
+| BRY | Bury                                    
+| CEP | Central Park                            
+| CER | Cemetery Road                           
+| CHO | Chorlton                                
+| CLA | Clayton Hall                            
+| CNK | Cornbrook                               
+| CRO | Crossacres                              
+| CRP | Crumpsall                               
+| DAN | Dane Road                               
+| DDV | Didsbury Village                        
+| DER | Derker                                  
+| DYL | Droylsden                               
+| ECC | Eccles                                  
+| EDD | East Didsbury                           
+| EDL | Edge Lane                               
+| EVC | Barton Dock Road                        
+| EXQ | Exchange Quay                           
+| EXS | Exchange Square                         
+| FAL | Failsworth                              
+| FIR | Firswood                                
+| FRE | Freehold                                
+| GMX | Deansgate - Castlefield                 
+| HBC | Harbour City                            
+| HOL | Hollinwood                              
+| HOT | Holt Town                               
+| HPK | Heaton Park                             
+| IWM | Imperial War Museum                     
+| KIN | Kingsway Business Park                  
+| LDW | Ladywell                                
+| LGW | Langworthy                              
+| MAR | Martinscroft                            
+| MEC | MediaCityUK                             
+| MIL | Milnrow                                 
+| MKT | Market Street                           
+| MON | Monsall                                 
+| MRD | Moor Road                               
+| NAV | Navigation Road                         
+| NEB | Newbold                                 
+| NEH | Newhey                                  
+| NHM | Newton Heath and Moston                 
+| NIS | New Islington                           
+| NMR | Northern Moor                           
+| OHC | Oldham Central                          
+| OHK | Oldham King Street                      
+| OHM | Oldham Mumps                            
+| OLD | Old Trafford                            
+| PAR | Parkway                                 
+| PCG | Piccadilly Gardens                      
+| PIC | Piccadilly                              
+| PLH | Peel Hall                               
+| POM | Pomona                                  
+| PRS | Prestwich                               
+| QNS | Queens Road                             
+| RAD | Radcliffe                               
+| RBN | Robinswood Road                         
+| ROC | Rochdale Railway Station                
+| RTC | Rochdale Town Centre                    
+| RTH | Roundthorn                              
+| SAL | Sale                                    
+| SFQ | Salford Quays                           
+| SHC | Shaw and Crompton                       
+| SHD | Shadowmoss                              
+| SHL | Shudehill                               
+| SOC | South Chadderton                        
+| SPC | Etihad Campus                           
+| SPS | St Peter's Square                       
+| STR | Stretford                               
+| SWP | Sale Water Park                         
+| SWR | St Werburgh’s Road                      
+| TFB | Trafford Bar                            
+| TMP | Timperley                               
+| TRC | The Trafford Centre                     
+| VEL | Velopark                                
+| VIC | Victoria                                
+| VLG | Village                                 
+| WDD | West Didsbury                           
+| WFD | Whitefield                              
+| WPK | Wythenshawe Park                        
+| WSD | Wharfside                               
+| WST | Weaste                                  
+| WTH | Withington                              
+| WWD | Westwood                                
+| WYC | Wythenshawe Town Centre  

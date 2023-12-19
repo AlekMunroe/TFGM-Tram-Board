@@ -1,0 +1,51 @@
+API - https://europe-west2-tramsfunc.cloudfunctions.net/tramsfunc
+Audio - metrolinkannouncements.co.uk
+
+V1
+- A template, no tram information will show
+- The time is will show at the bottom
+
+V2
+- Displays MRD (Moor Road)
+
+V3
+- Limits the amount of trams shown to two (the second line currently does not switch between two stops)
+- Displays each platform separately
+- Displays the MessageBoard on the third line (if there is no message board, it will not show the third tram)
+
+V4
+- The second line alternates between the second and third trams
+
+V5
+- The third line will either be the MessageBoard or Tram3 or none depending on the state
+- The second line alternates between Tram2 and Tram3 faster
+
+V6
+- Displays the stop name, platform and platformID
+- You can select the station within the website
+
+V7
+- Updates information automatically
+
+V8
+- Fonts
+- Style (Colours)
+- Added time back
+
+V9
+- https://metrolinkannouncements.co.uk
+- Added Single announcements "This is a service to (Place)" without a via
+- Some locations have via if specifically specified in the name (Eccles Via MediaCityUK, Ashton Via MCUK)
+- Shows "dbl" to indicate a double tram
+
+V10
+- Added the whole Manchester Airport - Victoria line announcements in AudioAnnouncements.js
+
+V11
+- Added The Trafford Centre - Deansgate - Castlefield announcements
+- Added MediaCityUK - Etihad Campus announcements
+- Added Eccles - Ashton-under-Lyne
+
+V12
+- Added Altrincham - Piccadilly announcements
+- Added Altrincham - Bury announcements

@@ -1,0 +1,28 @@
+/*The scrolling text*/
+@keyframes scrollMessage {
+    0% {
+        transform: translateX(100%); /* Start just off the screen to the right */
+    }
+    100% {
+        transform: translateX(-400%); /* End completely off the screen to the left */
+    }
+}
+
+.messageBoard {
+    white-space: nowrap;
+    position: absolute;
+    right: 0;
+    animation: scrollMessage 20s linear infinite;
+    font-family: 'LEDBoard';
+}
+
+/*The board font*/
+@font-face {
+    font-family: 'LEDBoard';
+    src: url('fonts/modern-led-bus-display-small-thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  head {
+    font-family: 'LEDBoard';
+  }
